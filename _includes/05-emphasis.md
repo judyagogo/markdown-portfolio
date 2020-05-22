@@ -1,4 +1,4 @@
-* Some of my skills:
+# Some of my skills:
 
 - **Great plate-spinner**
 - **Excellent *listener***
