@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Judy](https://res.cloudinary.com/judyagogo/image/upload/v1590111788/judy.jpg)
